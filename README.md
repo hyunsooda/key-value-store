@@ -3,6 +3,6 @@
 ## TODO for BLOCKCHAIN IMPLEMENTATION
 </br>
 <ul>
-  <li> Link up with Redis(possible other nosql database)</li>
+  <li> Link up with LevelDB(possible other embedded nosql database)</li>
   <li> JSON RPC(HTTP verb) for customer to query to ledger(allow get method only)</li>
 </ul>
